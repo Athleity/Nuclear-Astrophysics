@@ -207,7 +207,6 @@ This work was presented at the **12th IAPT National Students' Symposium on Physi
 | Type | Oral/Poster Presentation |
 
 ---
-
 ## 📖 Citation
 
 ```bibtex
@@ -218,7 +217,6 @@ This work was presented at the **12th IAPT National Students' Symposium on Physi
   year={2025},
   organization={Panjab University, Chandigarh}
 }
-```
 
 ---
 
