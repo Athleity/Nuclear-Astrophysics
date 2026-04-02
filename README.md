@@ -218,7 +218,14 @@ This work was presented at the **12th IAPT National Students' Symposium on Physi
 ---
 ## 📖 Citation
 
-**Bhavsar, P., & Upadhyay, N. J.** (2025). *A Computational Analysis of Experimental Nuclear Reaction Data*. In *12th IAPT National Students' Symposium on Physics (NSSP-2025)*. Panjab University, Chandigarh.
+```yaml
+author: "Bhavsar, P. & Upadhyay, N.J."
+title: "Computational Analysis of (α,n) Reaction Data"
+year: 2025
+event: "12th IAPT NSSP-2025" 
+venue: "Panjab University, Chandigarh"
+type: "Oral/Poster Presentation"
+```
 
 ⭐ If you find this work useful, please consider starring the repository!
 
